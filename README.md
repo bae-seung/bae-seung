@@ -38,6 +38,6 @@
 
 <div align="center">
   <h2>🏅 Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=bae-seung&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bae-seung&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages">
+  <img src="https://github-stats-extended.vercel.app/api?username=bae-seung&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bae-seung&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages">
 </div>
